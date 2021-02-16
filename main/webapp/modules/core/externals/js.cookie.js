@@ -129,6 +129,7 @@
 						} catch (e) {}
 					}
 
+					// KOKO 
 					jar[name] = cookie;
 
 					if (key === name) {
