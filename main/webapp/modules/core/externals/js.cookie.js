@@ -1,3 +1,4 @@
+// dummy comment by me !
 /*!
  * JavaScript Cookie v2.2.1
  * https://github.com/js-cookie/js-cookie
